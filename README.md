@@ -18,3 +18,6 @@ git clone https://github.com/NotChxrles/calculator..git
 cd GitProject
 ```
 3. unzip the `calculator.zip` file 
+
+## Credits
+This project was done by me.
